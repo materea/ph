@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var topics = [
       "Insulin and Insulin Preparations",
       "Oral Hypoglycemics",
-      "",
+      "Anticoagulants",
       "",
       "",
       "",

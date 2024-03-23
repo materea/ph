@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
       "Insulin and Insulin Preparations",
       "Oral Hypoglycemics",
       "Anticoagulants",
-      "",
+      "Antithyroid Drugs",
       "",
       "",
       "",
